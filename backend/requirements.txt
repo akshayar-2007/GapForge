@@ -1,0 +1,12 @@
+# Instead of exact versions, use:
+fastapi
+uvicorn
+pydantic
+python-dotenv
+pypdf
+requests
+google-generativeai
+python-multipart
+python-docx
+langgraph
+langchain
